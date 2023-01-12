@@ -7,3 +7,5 @@ Created Movie Recconmender System using Python.        Search Moive which you li
 
 **Language:** Python
 
+**Machine Learning Library In Python3:** Numpy , Pandas , Nltk , Pickel , Ast
+
